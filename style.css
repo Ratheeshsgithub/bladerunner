@@ -1,0 +1,19 @@
+.bg {
+    background-image:url(/wp2203661-blade-runner-2049-wallpapers.jpg);
+    
+    height: 100vh;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;  
+}
+
+.text {
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    font-size: xx-large;
+    
+}
